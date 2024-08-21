@@ -1,9 +1,14 @@
 // App ek funtion hai jo return krta hia html ko
-//  uske baad hum app ko export krte hai or render krte hai
+//  uske baad hum app ko export krte hai another mei import krte hia or render krte hai
 //jb bhi hm components bnaye/ya function khlo chahe hm vite se kaam kre chahe react se
-//hme react ya vite dono jgh components ka first letterc capital krna hai 
+//hme react ya vite dono jgh components ka first letter capital krna hai 
 //vite mei compulsary hai ki aap apne component ko .jsx se hi save kre
 //react mei .js se bhi save kr skte hia ki compulsion nhi hai
 //****************Best practices*************
 //captalize the first letter of your file and you function in both react and vite4
 //react mai .jsx krege to bhi koi problem nhi hia project fir bhi kaam krega
+
+
+*********important tips***********
+1. create react mei scripts automatically load hoti hia --- isme html file mei script add nhi hoti hia
+2. vite mei index.html file mei hi script add kr di jati hai 
